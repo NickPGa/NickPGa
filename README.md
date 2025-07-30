@@ -4,6 +4,11 @@
 - Northeastern University
   - Major: Computer Science and Biology
 - Northern Highlands Regional High School
+💻 Programming Languages:
+- Java
+- Python
+- SQL
+- Racket
 
 🔍 Currently seeking a Fall 2025 or Spring 2026 internship in software engineering, data, or bioinformatics.
 <!--
