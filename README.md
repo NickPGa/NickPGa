@@ -2,7 +2,7 @@
 
 📖 Education :
 - Northeastern University
-  -Major: Computer Science and Biology
+  - Major: Computer Science and Biology
 - Northern Highlands Regional High School
 
 🔍 Currently seeking a Fall 2025 or Spring 2026 internship in software engineering, data, or bioinformatics.
