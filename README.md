@@ -4,6 +4,7 @@
 - Northeastern University
   - Major: Computer Science and Biology
 - Northern Highlands Regional High School
+
 💻 Programming Languages:
 - Java
 - Python
